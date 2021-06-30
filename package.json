@@ -1,0 +1,27 @@
+{
+  "name": "misostack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misostack/misostack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misostack/misostack/issues"
+  },
+  "homepage": "https://github.com/misostack/misostack#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "engines": {
+    "node": "^14.15",
+    "yarn": "^1.22"
+  }  
+}
