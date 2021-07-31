@@ -1285,5 +1285,35 @@
 		"day4.form.firstName": "Tên"
 	}
   }  
-]
+],
+  "statuses": [
+    {
+      "id": "pending",
+      "name": "pending"
+    },
+    {
+      "id": "inprogress",
+      "name": "inprogress"
+    },
+    {
+      "id": "done",
+      "name": "done"
+    },
+    {
+      "id": "closed",
+      "name": "closed"
+    }
+  ],
+  "tasks": [
+    {
+      
+      "name": "Create example requirement",
+      "status": "pending",
+      "checklist": [
+        {"name": "Define main requirements", "isDone": false},
+        {"name": "Define business rules", "isDone": false},
+        {"name": "Define sample data set", "isDone": false}
+      ]
+    }    
+  ]
 }
