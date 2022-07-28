@@ -60,3 +60,19 @@ Thiện ác nhược vô báo
 Càn khôn tất hữu tư
  ```
 </div>
+
+<div>
+ <img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
+ <h1 align="center">Chính khí tồn nội, họa bất khả can</h1>
+</div>
+
+<div>
+ <img src="https://user-images.githubusercontent.com/31009750/181404147-fa5e9beb-dfed-4445-a6e8-5de3b83d88cc.png" alt="Awesome Badge"/>
+ 
+ ```ts
+Họa ra từ miệng nghiệp như núi
+Một lời bất cẩn nghiệp khổ đau
+Kêu cứu ai nghe chết không nổi
+Tim rung mật vỡ sợ bồi hoàn
+ ```
+</div>
