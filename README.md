@@ -49,3 +49,14 @@
  Nhân quả tuần hoàn
  ```
 </div>
+
+<div>
+ <img src="https://user-images.githubusercontent.com/31009750/181404147-fa5e9beb-dfed-4445-a6e8-5de3b83d88cc.png" alt="Awesome Badge"/>
+ 
+ ```ts
+Nhân tâm sinh nhất niệm
+Thiên địa tận giai tri
+Thiện ác nhược vô báo
+Càn khôn tất hữu tư
+ ```
+</div>
