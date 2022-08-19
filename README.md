@@ -94,11 +94,11 @@ Bệnh từ miệng vào, họa từ miệng ra
 1. Tham -> Sân -> Si
 2. Nghi
 3. Bớt nghi ( khoán, team work 
-4.Mạn
-5.Thân Kiến 
-6.Kiến Thủ Kiến 
+4. Mạn
+5. Thân Kiến 
+6. Kiến Thủ Kiến 
 7. Biên Kiến ( 1 nửa sự việc -> kết luận cả sự việc )
-8.Giới Cấm Thủ Kiến ( giới hạn kiến thức trong những thứ đã biết ) 
+8. Giới Cấm Thủ Kiến ( giới hạn kiến thức trong những thứ đã biết ) 
 9. Tà Kiến
 10. Tâm Không
 ```
