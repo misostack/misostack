@@ -24,7 +24,7 @@
  <img src="https://user-images.githubusercontent.com/31009750/181404147-fa5e9beb-dfed-4445-a6e8-5de3b83d88cc.png" alt="Awesome Badge"/>
  
  ```ts
- 1. Dành thời gian cho những điều ý nghĩ
+ 1. Dành thời gian cho những điều ý nghĩa
  2. Nên biết học cách từ chối
  3. Chi phí cơ hội: điều gì dễ đạt được thì giá trị không cao
  ```
