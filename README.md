@@ -17,6 +17,11 @@
 
 <div>
  <img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
+ <h1 align="center">Không có ai là không trân quý sinh mệnh bản thân, nhưng ít người biết trân trọng thời gian của chính mình</h1>
+</div>
+
+<div>
+ <img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
  <h1 align="center">Tướng tùy tâm sinh</h1>
 </div>
 
