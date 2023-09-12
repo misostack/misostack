@@ -109,7 +109,7 @@ Bệnh từ miệng vào, họa từ miệng ra
  ```
 </div>
 
- ```ts
+ ```md
 1. Tham -> Sân -> Si
 1.1. **Tham**: Tham là tham lam, là sự ham muốn quá mức đến mức bị cuốn theo, bị đắm chìm vào những thứ khiến mình ưa thích, lòng tham không biết chán, không có điểm dừng, càng có được những thứ bản thân ưa thích lại càng tham. Lòng tham trước nhất là vì bản thân mình, sau đến là cho gia đình, mở rộng ra là xã hội, quốc gia. Lòng tham thường đi liền với điều ác, đó là tranh giành ...
 1.2. **Sân**: Sân nghĩa là cơn giận, lòng thù hận, giận dữ khi không được vừa lòng, thỏa ý muốn của bản thân. Sân cũng chính là sự bất bình, cảm thấy bị xúc phạm nên “mượn” lý do đó để làm điều sai trái.
