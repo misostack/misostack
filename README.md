@@ -111,7 +111,7 @@ Bệnh từ miệng vào, họa từ miệng ra
 
  ```ts
 1. Tham -> Sân -> Si
-2. Nghi
+2. Nghi : Vì con người hay nghi ngờ nên bị luẩn quẩn không lối thoát. Vì nghi quá nên không thể nhìn ra và nhìn xa được
 3. Bớt nghi ( khoán, team work )
 4. Mạn
 5. Thân Kiến : là cái thấy, chấp rằng thân này có thật, ta là có thật. Nó là khởi đầu của chấp ngã.
