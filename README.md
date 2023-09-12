@@ -111,15 +111,18 @@ Bệnh từ miệng vào, họa từ miệng ra
 
  ```ts
 1. Tham -> Sân -> Si
-2. Nghi : Vì con người hay nghi ngờ nên bị luẩn quẩn không lối thoát. Vì nghi quá nên không thể nhìn ra và nhìn xa được
+1.1. **Tham**: Tham là tham lam, là sự ham muốn quá mức đến mức bị cuốn theo, bị đắm chìm vào những thứ khiến mình ưa thích, lòng tham không biết chán, không có điểm dừng, càng có được những thứ bản thân ưa thích lại càng tham. Lòng tham trước nhất là vì bản thân mình, sau đến là cho gia đình, mở rộng ra là xã hội, quốc gia. Lòng tham thường đi liền với điều ác, đó là tranh giành ...
+1.2. **Sân**: Sân nghĩa là cơn giận, lòng thù hận, giận dữ khi không được vừa lòng, thỏa ý muốn của bản thân. Sân cũng chính là sự bất bình, cảm thấy bị xúc phạm nên “mượn” lý do đó để làm điều sai trái.
+1.3. **Si**: Si là sự si mê đến mê muội, vô minh, không sáng suốt. “Si” khiến con người ra không còn khả năng hiểu lẽ phải, phân biệt đúng sai, tốt xấu… từ đó vô tình hoặc cố ý tạo ra những điều sai trái, có hại cho cả bản thân và người khác.
+2. **Nghi** : Vì con người hay nghi ngờ nên bị luẩn quẩn không lối thoát. Vì nghi quá nên không thể nhìn ra và nhìn xa được
 3. Bớt nghi ( khoán, team work )
-4. Mạn
-5. Thân Kiến : là cái thấy, chấp rằng thân này có thật, ta là có thật. Nó là khởi đầu của chấp ngã.
-6. Kiến Thủ Kiến :  Kiến thủ là cho rằng ý kiến của mình, cái thấy của mình là đúng, của người khác là sai.
-7. Biên Kiến ( 1 nửa sự việc -> kết luận cả sự việc )
-8. Giới Cấm Thủ Kiến ( giới hạn kiến thức trong những thứ đã biết ) 
-9. Tà Kiến
-10. Tâm Không
+4. **Mạn** :  ngã mạn, ngạo mạn, tự mãn, kiêu căng, cho mình là nhất, là hơn người
+5. **Thân Kiến** : là cái thấy, chấp rằng thân này có thật, ta là có thật. Nó là khởi đầu của chấp ngã.
+6. **Kiến Thủ Kiế**n :  Kiến thủ là cho rằng ý kiến của mình, cái thấy của mình là đúng, của người khác là sai.
+7. **Biên Kiến** ( 1 nửa sự việc -> kết luận cả sự việc )
+8. **Giới Cấm Thủ Kiến** ( giới hạn kiến thức trong những thứ đã biết ) 
+9. **Tà Kiến**: tà kiến được hiểu là cái nhìn sai lệch, sự nhìn nhận, đánh giá không dựa trên trí tuệ thông suốt, sự hiểu biết tường tận mà xuất phát từ cảm tính (yêu - ghét).Khi đó những cái mà chúng ta nhìn không đúng với sự thật, với bản chất vốn có của nó.
+10. **Tâm Không**
 ```
 
 ### Thế nào là tự chuốc hoạ vào thân?
