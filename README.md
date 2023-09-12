@@ -155,9 +155,8 @@ Giới hạn kiến thức trong những thứ đã biết
 Tà kiến được hiểu là cái nhìn sai lệch, sự nhìn nhận, đánh giá không dựa trên trí tuệ thông suốt, sự hiểu biết tường tận mà xuất phát từ cảm tính (yêu - ghét).Khi đó những cái mà chúng ta nhìn không đúng với sự thật, với bản chất vốn có của nó.
 
 **10. Tâm Không**
-```
 
-<h3>Thế nào là tự chuốc hoạ vào thân?</h3>
+### Thế nào là tự chuốc hoạ vào thân?
 
 
 > Thiên hạ vốn chẳng nảy sinh sự tình gì lớn, chỉ là có một số ít những kẻ thiển cận, hạng người tầm thường không có năng lực, cứ thích tự mình làm cho mọi thứ lộn xộn cả lên. Kết quả là những chuyện vốn dĩ có thể giải quyết dễ dàng lại hoá ra hỏng cả. Ta cho rằng cần từ sự căn bản mà giải quyết mọi sự, sau này có thể giảm bớt được rất nhiều phiền toái.
