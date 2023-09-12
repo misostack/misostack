@@ -112,10 +112,10 @@ Bệnh từ miệng vào, họa từ miệng ra
  ```ts
 1. Tham -> Sân -> Si
 2. Nghi
-3. Bớt nghi ( khoán, team work 
+3. Bớt nghi ( khoán, team work )
 4. Mạn
-5. Thân Kiến 
-6. Kiến Thủ Kiến 
+5. Thân Kiến : là cái thấy, chấp rằng thân này có thật, ta là có thật. Nó là khởi đầu của chấp ngã.
+6. Kiến Thủ Kiến :  Kiến thủ là cho rằng ý kiến của mình, cái thấy của mình là đúng, của người khác là sai.
 7. Biên Kiến ( 1 nửa sự việc -> kết luận cả sự việc )
 8. Giới Cấm Thủ Kiến ( giới hạn kiến thức trong những thứ đã biết ) 
 9. Tà Kiến
