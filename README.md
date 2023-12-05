@@ -5,6 +5,18 @@
  <h1 align="center">Lấy Thiện Thắng Ác, khi tà ác thắng thế nhân tính sẽ không tồn tại. Quan trọng là đều phải bắt nguồn từ Tâm Từ Bi</h1> 
 </div>
 
+<h3>Từ bi</h3>
+
+```ts
+Lòng từ bi là một thứ tình cảm.
+Lòng từ bi xuất phát từ sự đồng cảm với nỗi khổ đau của chúng sanh và thường có mong muốn hành động để giảm bớt sự đau khổ đó.
+```
+
+```ts
+Compassion is an emotion.
+Compassion comes from empathy for the suffering of sentient beings and often desire to take action to alleviate that suffering.
+```
+
 <div>
  <img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
  <h1 align="center"> Người làm điều thiện, phúc tuy chưa đến mà họa đã rời xa</h1> 
