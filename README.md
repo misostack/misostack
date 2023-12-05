@@ -13,7 +13,7 @@ Lòng từ bi xuất phát từ sự đồng cảm với nỗi khổ đau của 
 ```
 
 ```ts
-Compassion is an emotion.
+Compassion is an emotion. A sympathetic pity and concern for the sufferings or misfortunes of others.
 Compassion comes from empathy for the suffering of sentient beings and often desire to take action to alleviate that suffering.
 ```
 
