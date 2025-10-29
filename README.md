@@ -1,21 +1,10 @@
-<h1>Nhân quả tuần hoàn</h1>
+<h1>Bồ đề tâm</h1>
 
 <div>
  <img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
- <h1 align="center">Lấy Thiện Thắng Ác, khi tà ác thắng thế nhân tính sẽ không tồn tại. Quan trọng là đều phải bắt nguồn từ Tâm Từ Bi</h1> 
+ A Di Đà Phật. Khi ta làm chủ tâm mình không gì có thể khiến ta khổ. Khi ta quên tâm thì dù ở nơi tĩnh lặng cũng có thể làm ta khổ đau.
 </div>
 
-<h3>Từ bi</h3>
-
-```ts
-Lòng từ bi là một thứ tình cảm.
-Lòng từ bi xuất phát từ sự đồng cảm với nỗi khổ đau của chúng sanh và thường có mong muốn hành động để giảm bớt sự đau khổ đó.
-```
-
-```ts
-Compassion is an emotion. A sympathetic pity and concern for the sufferings or misfortunes of others.
-Compassion comes from empathy for the suffering of sentient beings and often desire to take action to alleviate that suffering.
-```
 
 <div>
  <img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
