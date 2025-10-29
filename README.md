@@ -1,8 +1,7 @@
 <h1>Bồ đề tâm</h1>
-
+<img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
 <div>
- <img src="https://user-images.githubusercontent.com/31009750/181404181-308d7630-e81b-45b9-99b9-9ad204778ffc.png" alt="Star Badge"/>
- A Di Đà Phật. Khi ta làm chủ tâm mình không gì có thể khiến ta khổ. Khi ta quên tâm thì dù ở nơi tĩnh lặng cũng có thể làm ta khổ đau.
+A Di Đà Phật. Khi ta làm chủ tâm mình không gì có thể khiến ta khổ. Khi ta quên tâm thì dù ở nơi tĩnh lặng cũng có thể làm ta khổ đau.
 </div>
 
 
